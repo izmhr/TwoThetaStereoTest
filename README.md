@@ -4,7 +4,10 @@
 
 ![](./docs/TwoThetaStereoTest.gif)
 
-* 眼間距離だけ離して撮影した2つの360度カメラ映像を用いて、HMDで両眼立体視をしてみるテスト。
+眼間距離だけ離して撮影した2つの360度カメラ映像を用いて、HMDで両眼立体視をしてみるテスト。
+
+### SCENES
+
 * TwoThetaStereo -> 静止画2枚を用意して行う
 * TwoThetaSStereoLive -> Theta S 2機でリアルタイムに行う。
 
